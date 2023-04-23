@@ -15,7 +15,7 @@
     "firebase": "^9.6.11",
     "JSON": "^1.0.0",
     "minimist": "^1.2.6",
-    "nodemon": "^2.0.16",
+    "nodemon": "^2.0.22",
     "plotly.js-dist-min": "^2.11.1",
     "require": "^0.4.4",
     "sentiment": "^5.0.2",
